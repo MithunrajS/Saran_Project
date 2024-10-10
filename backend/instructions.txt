@@ -1,0 +1,4 @@
+open terminal in this folder (backend)
+execute `npm install` command
+execute `node .` command
+The server should start in localhost:3000
